@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /account/
+Disallow: /api/
+Disallow: /embed/
+Disallow: /login/
+Disallow: /authenticate
+Disallow: /authenticate/*
+Disallow: /logout/
+Disallow: /meta/
+Disallow: /oauth/
+Disallow: /open/
+Disallow: /stats/
+Disallow: /thread/*/fetch
+Disallow: /thread/*/fetchx
+Disallow: /thread/*/refresh
+Disallow: /thread/*/refreshx
+Disallow: /500/
+
+Sitemap: https://threadshots.threadreaderapp.com/urllist.txt
